@@ -1,4 +1,5 @@
 ## H A F I D  L A P T O P
+[Click me](http://www.google.com)
 
 You can use the [editor on GitHub](https://github.com/hafidlaptop/hafidlaptop.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
